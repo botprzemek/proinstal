@@ -1,2 +1,4 @@
-# proinstal
-Website project for plumbing company PRO-INSTAL
+#PRO-INSTAL
+#Pan od Rurek
+
+Website design of plumbing company PRO INSTAL
