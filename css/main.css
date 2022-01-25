@@ -67,7 +67,7 @@ nav {
 
 .menu_element:first-child img,
 .menu_element:last-child img {
-  width: 75px;
+  width: 6vh;
 }
 
 .menu_element:first-child div {
