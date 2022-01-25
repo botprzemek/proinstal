@@ -83,7 +83,7 @@ nav {
 }
 
 .menu_element:first-child {
-  transform: scale(120%);
+  transform: scale(90%);
   order: 1;
 }
 
